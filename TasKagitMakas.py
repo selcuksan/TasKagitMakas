@@ -1,5 +1,4 @@
 from random import *
-from Move import *
 class Move():
     move=["","",""]
     move[0] = "tas"
